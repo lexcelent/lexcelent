@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lexcelent
-- 👀 I’m interested in software developing
+- 👀 I’m interested in game developing
 
 <!---
 lexcelent/lexcelent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
