@@ -4,7 +4,7 @@ My name is Alexey
 
 You can see my **stars** section to find something useful for new ideas 
 
-- 🔭 I’m currently working as Golang Developer
+- 🔭 I’m currently working as Go Developer
 - 💬 Ask me about anything
 
 <!--
