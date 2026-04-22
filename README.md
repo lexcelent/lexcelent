@@ -1,17 +1,10 @@
 ## Hello there 👋
 
-My name is Alexey, and I love computer science
-
-I'm experienced Python and Golang developer
+My name is Alexey
 
 You can see my **stars** section to find something useful for new ideas 
 
 - 🔭 I’m currently working as Golang Developer
-- 🌱 I’m currently learning C language
-- ⚡ Fun fact: I really love learning foreign languages. Currently I'm learning Chinease and trying to reach HSK2 level using book **Intensive Chinese Language Course - 100 Days**.  
-One year ago I was learning Deutsch using Duolingo, so I know some words, but I can't really build valuable sentences.  
-My native language is Russian
-
 - 💬 Ask me about anything
 
 <!--
